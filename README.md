@@ -21,8 +21,9 @@
 | 文件 | 说明 |
 |---|---|
 | [`wyckoff-study-guide-zh.md`](wyckoff-study-guide-zh.md) | 讲义全文（十一节） |
-
-结构示意图（吸筹 / 派发）与 PDF 版暂未收进本仓。
+| [`wyckoff-study-guide-zh.pdf`](wyckoff-study-guide-zh.pdf) | 讲义 PDF 版 |
+| [`images/acc.png`](images/acc.png) | 吸筹结构示意图 |
+| [`images/dist.png`](images/dist.png) | 派发结构示意图 |
 
 ## 免责声明
 
